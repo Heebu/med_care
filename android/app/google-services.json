@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "725106343747",
+    "project_id": "medflex-187bf",
+    "storage_bucket": "medflex-187bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725106343747:android:64470948176e82fe0c39f6",
+        "android_client_info": {
+          "package_name": "com.medflex.med_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725106343747-vfdtabur6lr7umtof0810dgcjqgkp3ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsrIUw4B1EEOEwT_SL2uhTDWMCLOzsiJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725106343747-vfdtabur6lr7umtof0810dgcjqgkp3ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
